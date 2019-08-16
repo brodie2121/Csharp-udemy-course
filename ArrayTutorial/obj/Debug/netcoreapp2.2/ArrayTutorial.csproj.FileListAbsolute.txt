@@ -1,0 +1,11 @@
+/Users/brodiebrock/C#/ArrayTutorial/bin/Debug/netcoreapp2.2/ArrayTutorial.deps.json
+/Users/brodiebrock/C#/ArrayTutorial/bin/Debug/netcoreapp2.2/ArrayTutorial.runtimeconfig.json
+/Users/brodiebrock/C#/ArrayTutorial/bin/Debug/netcoreapp2.2/ArrayTutorial.runtimeconfig.dev.json
+/Users/brodiebrock/C#/ArrayTutorial/bin/Debug/netcoreapp2.2/ArrayTutorial.dll
+/Users/brodiebrock/C#/ArrayTutorial/bin/Debug/netcoreapp2.2/ArrayTutorial.pdb
+/Users/brodiebrock/C#/ArrayTutorial/obj/Debug/netcoreapp2.2/ArrayTutorial.csprojAssemblyReference.cache
+/Users/brodiebrock/C#/ArrayTutorial/obj/Debug/netcoreapp2.2/ArrayTutorial.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/C#/ArrayTutorial/obj/Debug/netcoreapp2.2/ArrayTutorial.AssemblyInfoInputs.cache
+/Users/brodiebrock/C#/ArrayTutorial/obj/Debug/netcoreapp2.2/ArrayTutorial.AssemblyInfo.cs
+/Users/brodiebrock/C#/ArrayTutorial/obj/Debug/netcoreapp2.2/ArrayTutorial.dll
+/Users/brodiebrock/C#/ArrayTutorial/obj/Debug/netcoreapp2.2/ArrayTutorial.pdb

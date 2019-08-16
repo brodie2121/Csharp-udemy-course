@@ -1,0 +1,11 @@
+/Users/brodiebrock/C#/CalculatorTutorial/obj/Debug/netcoreapp2.2/CalculatorTutorial.csprojAssemblyReference.cache
+/Users/brodiebrock/C#/CalculatorTutorial/obj/Debug/netcoreapp2.2/CalculatorTutorial.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/C#/CalculatorTutorial/obj/Debug/netcoreapp2.2/CalculatorTutorial.AssemblyInfoInputs.cache
+/Users/brodiebrock/C#/CalculatorTutorial/obj/Debug/netcoreapp2.2/CalculatorTutorial.AssemblyInfo.cs
+/Users/brodiebrock/C#/CalculatorTutorial/bin/Debug/netcoreapp2.2/CalculatorTutorial.deps.json
+/Users/brodiebrock/C#/CalculatorTutorial/bin/Debug/netcoreapp2.2/CalculatorTutorial.runtimeconfig.json
+/Users/brodiebrock/C#/CalculatorTutorial/bin/Debug/netcoreapp2.2/CalculatorTutorial.runtimeconfig.dev.json
+/Users/brodiebrock/C#/CalculatorTutorial/bin/Debug/netcoreapp2.2/CalculatorTutorial.dll
+/Users/brodiebrock/C#/CalculatorTutorial/bin/Debug/netcoreapp2.2/CalculatorTutorial.pdb
+/Users/brodiebrock/C#/CalculatorTutorial/obj/Debug/netcoreapp2.2/CalculatorTutorial.dll
+/Users/brodiebrock/C#/CalculatorTutorial/obj/Debug/netcoreapp2.2/CalculatorTutorial.pdb

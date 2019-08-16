@@ -1,0 +1,11 @@
+/Users/brodiebrock/C#/variablesTurtorial/bin/Debug/netcoreapp2.2/variablesTurtorial.deps.json
+/Users/brodiebrock/C#/variablesTurtorial/bin/Debug/netcoreapp2.2/variablesTurtorial.runtimeconfig.json
+/Users/brodiebrock/C#/variablesTurtorial/bin/Debug/netcoreapp2.2/variablesTurtorial.runtimeconfig.dev.json
+/Users/brodiebrock/C#/variablesTurtorial/bin/Debug/netcoreapp2.2/variablesTurtorial.dll
+/Users/brodiebrock/C#/variablesTurtorial/bin/Debug/netcoreapp2.2/variablesTurtorial.pdb
+/Users/brodiebrock/C#/variablesTurtorial/obj/Debug/netcoreapp2.2/variablesTurtorial.csprojAssemblyReference.cache
+/Users/brodiebrock/C#/variablesTurtorial/obj/Debug/netcoreapp2.2/variablesTurtorial.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/C#/variablesTurtorial/obj/Debug/netcoreapp2.2/variablesTurtorial.AssemblyInfoInputs.cache
+/Users/brodiebrock/C#/variablesTurtorial/obj/Debug/netcoreapp2.2/variablesTurtorial.AssemblyInfo.cs
+/Users/brodiebrock/C#/variablesTurtorial/obj/Debug/netcoreapp2.2/variablesTurtorial.dll
+/Users/brodiebrock/C#/variablesTurtorial/obj/Debug/netcoreapp2.2/variablesTurtorial.pdb

@@ -1,0 +1,11 @@
+/Users/brodiebrock/C#/SwitchTutorial/bin/Debug/netcoreapp2.2/SwitchTutorial.deps.json
+/Users/brodiebrock/C#/SwitchTutorial/bin/Debug/netcoreapp2.2/SwitchTutorial.runtimeconfig.json
+/Users/brodiebrock/C#/SwitchTutorial/bin/Debug/netcoreapp2.2/SwitchTutorial.runtimeconfig.dev.json
+/Users/brodiebrock/C#/SwitchTutorial/bin/Debug/netcoreapp2.2/SwitchTutorial.dll
+/Users/brodiebrock/C#/SwitchTutorial/bin/Debug/netcoreapp2.2/SwitchTutorial.pdb
+/Users/brodiebrock/C#/SwitchTutorial/obj/Debug/netcoreapp2.2/SwitchTutorial.csprojAssemblyReference.cache
+/Users/brodiebrock/C#/SwitchTutorial/obj/Debug/netcoreapp2.2/SwitchTutorial.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/C#/SwitchTutorial/obj/Debug/netcoreapp2.2/SwitchTutorial.AssemblyInfoInputs.cache
+/Users/brodiebrock/C#/SwitchTutorial/obj/Debug/netcoreapp2.2/SwitchTutorial.AssemblyInfo.cs
+/Users/brodiebrock/C#/SwitchTutorial/obj/Debug/netcoreapp2.2/SwitchTutorial.dll
+/Users/brodiebrock/C#/SwitchTutorial/obj/Debug/netcoreapp2.2/SwitchTutorial.pdb

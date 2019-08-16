@@ -1,0 +1,11 @@
+/Users/brodiebrock/C#/doWhileLoopTutorial/bin/Debug/netcoreapp2.2/doWhileLoopTutorial.deps.json
+/Users/brodiebrock/C#/doWhileLoopTutorial/bin/Debug/netcoreapp2.2/doWhileLoopTutorial.runtimeconfig.json
+/Users/brodiebrock/C#/doWhileLoopTutorial/bin/Debug/netcoreapp2.2/doWhileLoopTutorial.runtimeconfig.dev.json
+/Users/brodiebrock/C#/doWhileLoopTutorial/bin/Debug/netcoreapp2.2/doWhileLoopTutorial.dll
+/Users/brodiebrock/C#/doWhileLoopTutorial/bin/Debug/netcoreapp2.2/doWhileLoopTutorial.pdb
+/Users/brodiebrock/C#/doWhileLoopTutorial/obj/Debug/netcoreapp2.2/doWhileLoopTutorial.csprojAssemblyReference.cache
+/Users/brodiebrock/C#/doWhileLoopTutorial/obj/Debug/netcoreapp2.2/doWhileLoopTutorial.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/C#/doWhileLoopTutorial/obj/Debug/netcoreapp2.2/doWhileLoopTutorial.AssemblyInfoInputs.cache
+/Users/brodiebrock/C#/doWhileLoopTutorial/obj/Debug/netcoreapp2.2/doWhileLoopTutorial.AssemblyInfo.cs
+/Users/brodiebrock/C#/doWhileLoopTutorial/obj/Debug/netcoreapp2.2/doWhileLoopTutorial.dll
+/Users/brodiebrock/C#/doWhileLoopTutorial/obj/Debug/netcoreapp2.2/doWhileLoopTutorial.pdb

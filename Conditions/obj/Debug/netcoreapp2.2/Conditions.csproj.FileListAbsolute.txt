@@ -1,0 +1,11 @@
+/Users/brodiebrock/C#/Conditions/bin/Debug/netcoreapp2.2/Conditions.deps.json
+/Users/brodiebrock/C#/Conditions/bin/Debug/netcoreapp2.2/Conditions.runtimeconfig.json
+/Users/brodiebrock/C#/Conditions/bin/Debug/netcoreapp2.2/Conditions.runtimeconfig.dev.json
+/Users/brodiebrock/C#/Conditions/bin/Debug/netcoreapp2.2/Conditions.dll
+/Users/brodiebrock/C#/Conditions/bin/Debug/netcoreapp2.2/Conditions.pdb
+/Users/brodiebrock/C#/Conditions/obj/Debug/netcoreapp2.2/Conditions.csprojAssemblyReference.cache
+/Users/brodiebrock/C#/Conditions/obj/Debug/netcoreapp2.2/Conditions.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/C#/Conditions/obj/Debug/netcoreapp2.2/Conditions.AssemblyInfoInputs.cache
+/Users/brodiebrock/C#/Conditions/obj/Debug/netcoreapp2.2/Conditions.AssemblyInfo.cs
+/Users/brodiebrock/C#/Conditions/obj/Debug/netcoreapp2.2/Conditions.dll
+/Users/brodiebrock/C#/Conditions/obj/Debug/netcoreapp2.2/Conditions.pdb

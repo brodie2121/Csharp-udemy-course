@@ -1,0 +1,11 @@
+/Users/brodiebrock/C#/FunctionsTutorial/bin/Debug/netcoreapp2.2/FunctionsTutorial.deps.json
+/Users/brodiebrock/C#/FunctionsTutorial/bin/Debug/netcoreapp2.2/FunctionsTutorial.runtimeconfig.json
+/Users/brodiebrock/C#/FunctionsTutorial/bin/Debug/netcoreapp2.2/FunctionsTutorial.runtimeconfig.dev.json
+/Users/brodiebrock/C#/FunctionsTutorial/bin/Debug/netcoreapp2.2/FunctionsTutorial.dll
+/Users/brodiebrock/C#/FunctionsTutorial/bin/Debug/netcoreapp2.2/FunctionsTutorial.pdb
+/Users/brodiebrock/C#/FunctionsTutorial/obj/Debug/netcoreapp2.2/FunctionsTutorial.csprojAssemblyReference.cache
+/Users/brodiebrock/C#/FunctionsTutorial/obj/Debug/netcoreapp2.2/FunctionsTutorial.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/C#/FunctionsTutorial/obj/Debug/netcoreapp2.2/FunctionsTutorial.AssemblyInfoInputs.cache
+/Users/brodiebrock/C#/FunctionsTutorial/obj/Debug/netcoreapp2.2/FunctionsTutorial.AssemblyInfo.cs
+/Users/brodiebrock/C#/FunctionsTutorial/obj/Debug/netcoreapp2.2/FunctionsTutorial.dll
+/Users/brodiebrock/C#/FunctionsTutorial/obj/Debug/netcoreapp2.2/FunctionsTutorial.pdb

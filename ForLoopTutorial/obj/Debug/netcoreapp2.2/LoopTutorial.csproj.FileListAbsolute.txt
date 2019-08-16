@@ -1,0 +1,11 @@
+/Users/brodiebrock/C#/ForLoopTutorial/bin/Debug/netcoreapp2.2/LoopTutorial.deps.json
+/Users/brodiebrock/C#/ForLoopTutorial/bin/Debug/netcoreapp2.2/LoopTutorial.runtimeconfig.json
+/Users/brodiebrock/C#/ForLoopTutorial/bin/Debug/netcoreapp2.2/LoopTutorial.runtimeconfig.dev.json
+/Users/brodiebrock/C#/ForLoopTutorial/bin/Debug/netcoreapp2.2/LoopTutorial.dll
+/Users/brodiebrock/C#/ForLoopTutorial/bin/Debug/netcoreapp2.2/LoopTutorial.pdb
+/Users/brodiebrock/C#/ForLoopTutorial/obj/Debug/netcoreapp2.2/LoopTutorial.csprojAssemblyReference.cache
+/Users/brodiebrock/C#/ForLoopTutorial/obj/Debug/netcoreapp2.2/LoopTutorial.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/C#/ForLoopTutorial/obj/Debug/netcoreapp2.2/LoopTutorial.AssemblyInfoInputs.cache
+/Users/brodiebrock/C#/ForLoopTutorial/obj/Debug/netcoreapp2.2/LoopTutorial.AssemblyInfo.cs
+/Users/brodiebrock/C#/ForLoopTutorial/obj/Debug/netcoreapp2.2/LoopTutorial.dll
+/Users/brodiebrock/C#/ForLoopTutorial/obj/Debug/netcoreapp2.2/LoopTutorial.pdb
